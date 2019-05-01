@@ -1,9 +1,9 @@
 ## WhatsApp-Text-FIirt-Analysis
 The respository analyze the whatsapp text which produces a flirt percentage of the chaters.
 
-### Step 1:  Export interested whatsapp chat to mail. From mail you download as .txt file which will be the input for the process
+### Step 1:  Export interested whatsapp chat to mail. From mail you can download as .txt file which will be the input for the process
 
-## Step 2 &  Step 3 for Python Beginners(Optional for others)
+## Note:Step 2 &  Step 3 for Python Beginners(Optional for others)
 
 ### Step 2: Download Anaconda Distribution from the below link ###
 
